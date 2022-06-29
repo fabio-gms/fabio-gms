@@ -7,7 +7,7 @@
 <div>
   <a href="https://beacons.ai/fabio-gms">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabio-gms&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-gms&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-gms&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
