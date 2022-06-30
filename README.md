@@ -1,4 +1,4 @@
-## Olá é um prazer estar aqui, eu sou o Fábio
+## Olá é um prazer estar aqui, eu sou o Fábio iniciante no mundo da programação
 
 - 🔭 em busca do meu primeiro emprego
 - 🌱 estudando para ser front-end
